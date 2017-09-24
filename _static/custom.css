@@ -1,0 +1,10 @@
+.strike {
+    text-decoration: line-through;
+}
+iframe.books {
+    float: left;
+    padding-right: 50px;
+}
+hr.docutils {
+    clear: both;
+}
